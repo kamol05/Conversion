@@ -15,13 +15,13 @@ Cистема автоматической сборки: Gradle
     - Humo
     - Visa
       У всех должно быть Таблица с этими данными Card
-      ![img_4.png](img_4.png)
+      ![img_4.png](images/img_4.png)
       •	Российский банк
       Сервисы Карт:
     - МИР
     - Visa
       У всех должно быть Таблица с этими данными Card
-      ![img_5.png](img_5.png)
+      ![img_5.png](images/img_5.png)
       Общая таблица для хранений карт Card:
-      ![img_7.png](img_7.png)
-      ![img_8.png](img_8.png)
+      ![img_7.png](images/img_7.png)
+      ![img_8.png](images/img_8.png)
